@@ -22,7 +22,6 @@ class Quadratic {
             System.out.println("The solutions for " + (int) a + "x^2 + " + 
             (int) b + "x + " + (int) c + " are " + answer2 + " and " + 
             answer1 + ".");
-        
-          //  1- Math.pow (r,n)/(1-r)
+
     }
 }
